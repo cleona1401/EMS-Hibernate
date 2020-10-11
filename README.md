@@ -6,3 +6,4 @@ Steps:
 3 Create a Configuration File.
 4 Create a class which will perform the operations.
 5 Compile and Run the main class which includes operations in my case it is MianFrame.java
+This project performs basic CRUD operations.
